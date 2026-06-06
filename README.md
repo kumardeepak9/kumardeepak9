@@ -5,7 +5,7 @@ Software Developer actively expanding into the DevOps domain through practical, 
 
 ##  Current Focus
 
-- 🔭 Working on: **[AI, MLOps projects]** <!-- TODO: Add your current main project -->
+- 🔭 Working on: **[DevOps, MLOps projects]** <!-- TODO: Add your current main project -->
 - 🌱 Learning: **[Advanced Kubernetes, System Design]** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source projects related to Cloud-Native or MLOps**
 - 💬 Ask me about: **[CI/CD pipelines, Cloud & DevOps (AWS/Docker), Scalable Backend Systems, Microservices]** <!-- TODO: Add your areas of expertise -->
