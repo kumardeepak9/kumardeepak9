@@ -1,8 +1,5 @@
 # Software Engineer
-Software developer with hands-on experience in backend development, system integration, and CI/ CD automation
-across diverse environments. Skilled in designing scalable architectures, optimizing deployment pipelines, improving
-development workflows through automation and containerization, analyzing complex systems to uncover bottlenecks
-and implement data-driven, high-performance solutions.
+Software Developer actively expanding into the DevOps domain through practical, project-driven cloud automation and infrastructure management. Leverages deep backend engineering experience to build robust CI/CD pipelines, containerized environments, and automated infrastructure (IaC) via tools like Docker, Ansible and Terraform. Dedicated to improving development workflows, eliminating system bottlenecks, and deploying resilient cloud solutions.
 
 ---
 
