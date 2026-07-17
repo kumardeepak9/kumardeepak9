@@ -1,5 +1,5 @@
 # Software Engineer
-Software Engineer with almost 2 years of professional experience in backend development, system integration, and automation. I am actively expanding my expertise into DevOps and Cloud Engineering, leveraging my strong programming foundation to build scalable, resilient infrastructure.
+Software Engineer with 2 years of professional experience in backend development, system integration, and automation. I am actively expanding my expertise into DevOps and Cloud Engineering, leveraging my strong programming foundation to build scalable, resilient infrastructure.
 Through hands-on, project-driven experience, focusing on automating development workflows, implementing Infrastructure as Code (Terraform), and optimizing CI/CD pipelines across AWS and Azure environments. Passionate about bridging the gap between code and cloud to deliver high-performance, containerized systems. 
 
 ---
